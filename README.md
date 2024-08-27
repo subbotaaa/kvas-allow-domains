@@ -1,0 +1,1 @@
+# kvas-allow-domains

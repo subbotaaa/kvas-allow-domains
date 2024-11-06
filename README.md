@@ -8,3 +8,5 @@
 Для импорта списка на роутер с поддержкой KVAS
 
     cd /tmp && curl -O https://raw.githubusercontent.com/subbotaaa/kvas-allow-domains/main/ip.lst && kvas import ip.lst
+
+    cd /tmp && curl -O https://raw.githubusercontent.com/subbotaaa/kvas-allow-domains/main/twitter.lst && kvas import twitter.lst

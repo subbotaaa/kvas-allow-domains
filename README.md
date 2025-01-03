@@ -10,3 +10,7 @@
     cd /tmp && curl -O https://raw.githubusercontent.com/subbotaaa/kvas-allow-domains/main/ip.lst && kvas import ip.lst
 
     cd /tmp && curl -O https://raw.githubusercontent.com/subbotaaa/kvas-allow-domains/main/twitter.lst && kvas import twitter.lst
+
+    cd /tmp && curl -O https://raw.githubusercontent.com/subbotaaa/kvas-allow-domains/main/copilot.lst && kvas import copilot.lst
+
+    cd /tmp && curl -O https://raw.githubusercontent.com/subbotaaa/kvas-allow-domains/main/new.lst && kvas import new.lst
